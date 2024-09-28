@@ -1,6 +1,7 @@
 # Author: Markiyan Dmyterko
 
-1.The Nice Gadget website project is a fully functional website with different pages-components, and responsive design
+1.The Nice Gadget website is a personal endeavor to create an engaging online platform. The project highlights skills in modern web development, emphasizing responsive design and user experience.
+
 2.Technologies Used: React, TypeScript, SCSS
 
 - [DEMO LINK](https://MarkiMark3.github.io/nice-gadgets-website/)
