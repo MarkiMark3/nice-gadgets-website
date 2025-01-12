@@ -17,19 +17,6 @@ export const App = () => {
   };
 
 
-  // const electricityBill = (totalkW: number, cost: number, lastMonthkW: number, thisMonthkW: number) => {
-  //   const milaKw = thisMonthkW - lastMonthkW;
-  //   console.log(milaKw);
-  //   const costOfkW = cost / totalkW;
-  //   const milaKwCost = costOfkW * milaKw;
-  //   const didokW = totalkW - milaKw;
-  //   const didokWCost = costOfkW * didokW;
-
-  //   return console.log(`Price per kW ${Math.round(costOfkW * 100) / 100}€, Mila has to pay ${Math.round(milaKwCost * 100) / 100}€ and dido ${Math.round(didokWCost * 100) / 100}€`);
-  // };
-
-  // electricityBill(316, 108.62, 100, 320);
-
   return (
     <div className="App">
       <header className="header">
